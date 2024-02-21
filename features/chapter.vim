@@ -193,6 +193,7 @@ Finish script
 Now reads image from input
 
 # Please enter the commit message for your changes. Lines starting
+New code-review
 ...
 I’ll change the commit message to “Create initial image modifier script,” save my editor and continue. The remaining `fixup`s are applied without any conflicts, so the rebase completes with commits combined as specified:
 
